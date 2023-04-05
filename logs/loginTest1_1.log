@@ -1,0 +1,15 @@
+13:43:30,864 INFO [main] MyLogger - com.testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : loginTest1**************
+
+13:43:30,889 INFO [main] MyLogger - Test.newTest:loginTest1 13==>  Test1
+[INFO ] 2023-03-28 16:08:57.446 - com.testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : loginTest1**************
+
+[INFO ] 2023-03-28 16:08:57.474 - Test.newTest:loginTest1 15==>  Test1
+[INFO ] 2023-04-03 16:24:57.523 - com.testBase.MyLogger:startTestCase 17==>  
+
+************** Execution Started : loginTest1**************
+
+[INFO ] 2023-04-03 16:24:57.566 - Test.newTest:loginTest1 15==>  Test1
